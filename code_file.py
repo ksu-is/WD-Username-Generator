@@ -21,3 +21,8 @@ def button_clicked():
     
 button = Button(root, text="Generate Username", command=button_clicked)
 button.pack()
+
+output_label = Label(root, text="", width=30, height=2, bg="white", relief="sunken")
+output_label.pack()
+
+root.mainloop()
