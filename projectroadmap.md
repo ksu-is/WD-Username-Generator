@@ -9,3 +9,6 @@
 - [x] Begin writing code and making the application window. 
 - [x] Create at least 6 commits with detailed comments
 - [x] Create and add window application for the Generator
+
+# Sprint 3
+- [x] Create a powerpoint slide showing the project.
