@@ -1,2 +1,2 @@
-# password_generator
-Program to create desired number of random, secure passwords with user input of number of characters desired. The passwords will use uppercase, lowercase, numbers and special characters.
+# Username Generator Project!
+This application allows the user to generate a completly secure random username for you to use for anything that nobody will be able to guess!
