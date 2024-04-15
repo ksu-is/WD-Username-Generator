@@ -12,3 +12,9 @@ def generate_random_username():
     username = ''.join(random_words) + str(random_number)
 
     output_label.config(text=username)
+    
+root = Tk()
+
+def button_clicked():
+    generate_random_username()
+
