@@ -17,3 +17,6 @@ root = Tk()
 
 def button_clicked():
     generate_random_username()
+
+button = Button(root, text="Generate Username", command=button_clicked)
+button.pack()
