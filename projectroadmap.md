@@ -5,6 +5,6 @@
 - [x] Created New ReadMe and updated Roadmap
 - [x] Research simalir repositiorie
 # Sprint 2
-- [x] Create a .py file for the repository to build code
+- [x] Create a .py file for the repository to build code.
 - [x] Begin writing code and making the application window. 
-- [x] Create at least 6 commits with detailed comments
+- [x] Create at least 6 commits with detailed comments.
