@@ -3,7 +3,7 @@
 - [x] Join the KSU IS Organization and create our team.
 - [x] Clone a repository on github.
 - [x] Created New ReadMe and updated Roadmap
-- [x] Research simalir repositiorie
+- [x] Research similar repositiorie
 # Sprint 2
 - [x] Create a .py file for the repository to build code.
 - [x] Begin writing code and making the application window. 
